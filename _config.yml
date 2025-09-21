@@ -4,10 +4,10 @@
 remote_theme: cotes2020/jekyll-theme-chirpy
 
 # The language of the webpage
-lang: en
+lang: ar-SA
 
 # Timezone
-timezone: Europe/Paris
+timezone: Asia/Riyadh
 
 # Site info
 title: Matrix blog
