@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Use Chirpy theme
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 # The language of the webpage
 lang: ar-SA
